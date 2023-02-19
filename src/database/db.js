@@ -13,4 +13,14 @@ const films = [
 		price: 45,
 	},
 ]
-module.exports = { users, films }
+
+const cars = [
+{
+	id: '1',
+	brand: 'Ford',
+	models: '2017',
+	type: 'SUV',
+},
+]
+
+module.exports = { users, films,cars}
